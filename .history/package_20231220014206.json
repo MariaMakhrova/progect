@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "docxtemplater": "^3.42.6",
+    "exceljs": "^4.4.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "css-loader": "^6.8.1",
+    "postcss": "^8.4.32",
+    "postcss-loader": "^7.3.3",
+    "style-loader": "^3.3.3"
+  }
+  "scripts: {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "vue-cli-service serve"
+  }
+}
